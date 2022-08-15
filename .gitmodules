@@ -1,0 +1,3 @@
+[submodule "prefy4a/FY4A"]
+	path = prefy4a/FY4A
+	url = git@github.com:aiwei169/FY4A.git
